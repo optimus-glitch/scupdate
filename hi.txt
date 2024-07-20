@@ -1,0 +1,1000 @@
+ 1001  node src/index.js 
+ 1002  node src/index.js --wait 10000 https://tenders.go.ke/OpenTenders
+ 1003  node bin/cli.js sitemap --wait 10000 https://tenders.go.ke/OpenTenders
+ 1004  node bin/cli.js sitemap --wait 2500 https://tenders.go.ke/OpenTenders
+ 1005  node src/index.js --wait 10000 https://tenders.go.ke/OpenTenders
+ 1006  cd "/home/anon/Desktop/super-simple-sitemap"
+ 1007  node "/home/anon/Desktop/super-simple-sitemap/main.js"
+ 1008  cd "/home/anon/Desktop/super-simple-sitemap"
+ 1009  node "/home/anon/Desktop/super-simple-sitemap/main.js"
+ 1010  cd "/home/anon/Desktop/super-simple-sitemap"
+ 1011  node "/home/anon/Desktop/super-simple-sitemap/main.js"
+ 1012  cd "/home/anon/Desktop/super-simple-sitemap"
+ 1013  node "/home/anon/Desktop/super-simple-sitemap/main.js"
+ 1014  cd "/home/anon/Desktop/nodesc"
+ 1015  node "/home/anon/Desktop/nodesc/main.js"
+ 1016  cd "/home/anon/Desktop/nodesc"
+ 1017  node "/home/anon/Desktop/nodesc/main.js"
+ 1018  cd "/home/anon/Desktop/nodesc"
+ 1019  node "/home/anon/Desktop/nodesc/main.js"
+ 1020  cd "/home/anon/Desktop/nodesc"
+ 1021  node "/home/anon/Desktop/nodesc/main.js"
+ 1022  cd "/home/anon/Desktop/nodesc"
+ 1023  node "/home/anon/Desktop/nodesc/main.js"
+ 1024  cd "/home/anon/Desktop/nodesc"
+ 1025  node "/home/anon/Desktop/nodesc/main.js"
+ 1026  cd "/home/anon/Desktop/nodesc"
+ 1027  node "/home/anon/Desktop/nodesc/main.js"
+ 1028  cd "/home/anon/Desktop/nodesc"
+ 1029  node "/home/anon/Desktop/nodesc/main.js"
+ 1030  cd "/home/anon/Desktop/nodesc"
+ 1031  node "/home/anon/Desktop/nodesc/main.js"
+ 1032  cd "/home/anon/Desktop/nodesc"
+ 1033  node "/home/anon/Desktop/nodesc/main.js"
+ 1034  cd "/home/anon/Desktop/nodesc"
+ 1035  node "/home/anon/Desktop/nodesc/main.js"
+ 1036  clear
+ 1037  cd "/home/anon/Desktop/nodesc"
+ 1038  node "/home/anon/Desktop/nodesc/main2.js"
+ 1039  cd "/home/anon/Desktop/nodesc"
+ 1040  node "/home/anon/Desktop/nodesc/main2.js"
+ 1041  cd "/home/anon/Desktop/nodesc"
+ 1042  node "/home/anon/Desktop/nodesc/main2.js"
+ 1043  clear
+ 1044  cd "/home/anon/Desktop/nodesc"
+ 1045  node "/home/anon/Desktop/nodesc/main2.js"
+ 1046  ping -c 4 google.com
+ 1047  cd "/home/anon/Desktop/nodesc"
+ 1048  node "/home/anon/Desktop/nodesc/main2.js"
+ 1049  cd "/home/anon/Desktop/nodesc"
+ 1050  node "/home/anon/Desktop/nodesc/main3.js"
+ 1051  cd "/home/anon/Desktop/nodesc"
+ 1052  node "/home/anon/Desktop/nodesc/main2.js"
+ 1053  cd "/home/anon/Desktop/nodesc"
+ 1054  node "/home/anon/Desktop/nodesc/main3.js"
+ 1055  cd "/home/anon/Desktop/nodesc"
+ 1056  node "/home/anon/Desktop/nodesc/main4.js"
+ 1057  cd "/home/anon/Desktop/nodesc"
+ 1058  node "/home/anon/Desktop/nodesc/main2.js"
+ 1059  cd "/home/anon/Desktop/nodesc"
+ 1060  node "/home/anon/Desktop/nodesc/main.js"
+ 1061  cd "/home/anon/Desktop/nodesc"
+ 1062  node "/home/anon/Desktop/nodesc/main5.js"
+ 1063  cd "/home/anon/Desktop/nodesc"
+ 1064  node "/home/anon/Desktop/nodesc/main5.js"
+ 1065  cd "/home/anon/Desktop/nodesc"
+ 1066  node "/home/anon/Desktop/nodesc/main5.js"
+ 1067  cd "/home/anon/Desktop/nodesc"
+ 1068  node "/home/anon/Desktop/nodesc/main6.js"
+ 1069  cd "/home/anon/Desktop/nodesc"
+ 1070  node "/home/anon/Desktop/nodesc/main5.js"
+ 1071  cd "/home/anon/Desktop/nodesc"
+ 1072  node "/home/anon/Desktop/nodesc/main6.js"
+ 1073  cd "/home/anon/Desktop/nodesc"
+ 1074  node "/home/anon/Desktop/nodesc/main7.js"
+ 1075  cd "/home/anon/Desktop/nodesc"
+ 1076  node "/home/anon/Desktop/nodesc/main5.js"
+ 1077  cd "/home/anon/Desktop/nodesc"
+ 1078  node "/home/anon/Desktop/nodesc/main8.js"
+ 1079  cd "/home/anon/Desktop/nodesc"
+ 1080  node "/home/anon/Desktop/nodesc/main8.js"
+ 1081  cd "/home/anon/Desktop/nodesc"
+ 1082  node "/home/anon/Desktop/nodesc/main8.js"
+ 1083  cd "/home/anon/Desktop/nodesc"
+ 1084  node "/home/anon/Desktop/nodesc/main8.js"
+ 1085  cd "/home/anon/Desktop/nodesc"
+ 1086  node "/home/anon/Desktop/nodesc/main8.js"
+ 1087  cd "/home/anon/Desktop/nodesc"
+ 1088  node "/home/anon/Desktop/nodesc/main8.js"
+ 1089  cd "/home/anon/Desktop/nodesc"
+ 1090  node "/home/anon/Desktop/nodesc/main9.js"
+ 1091  cd "/home/anon/Desktop/nodesc"
+ 1092  node "/home/anon/Desktop/nodesc/main9.js"
+ 1093  cd "/home/anon/Desktop/nodesc"
+ 1094  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1095  cd "/home/anon/Desktop/nodesc"
+ 1096  node "/home/anon/Desktop/nodesc/main9.js"
+ 1097  cd "/home/anon/Desktop/nodesc"
+ 1098  node "/home/anon/Desktop/nodesc/main9.js"
+ 1099  cd "/home/anon/Desktop/nodesc"
+ 1100  node "/home/anon/Desktop/nodesc/main9.js"
+ 1101  cd "/home/anon/Desktop/nodesc"
+ 1102  node "/home/anon/Desktop/nodesc/main9.js"
+ 1103  cd "/home/anon/Desktop/nodesc"
+ 1104  node "/home/anon/Desktop/nodesc/main9.js"
+ 1105  cd "/home/anon/Desktop/nodesc"
+ 1106  node "/home/anon/Desktop/nodesc/main9.js"
+ 1107  cd "/home/anon/Desktop/nodesc"
+ 1108  node "/home/anon/Desktop/nodesc/main9.js"
+ 1109  cd "/home/anon/Desktop/nodesc"
+ 1110  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1111  cd "/home/anon/Desktop/nodesc"
+ 1112  node "/home/anon/Desktop/nodesc/main2.js"
+ 1113  cd "/home/anon/Desktop/nodesc"
+ 1114  node "/home/anon/Desktop/nodesc/main3.js"
+ 1115  cd "/home/anon/Desktop/nodesc"
+ 1116  node "/home/anon/Desktop/nodesc/main4.js"
+ 1117  cd "/home/anon/Desktop/nodesc"
+ 1118  node "/home/anon/Desktop/nodesc/main5.js"
+ 1119  cd "/home/anon/Desktop/nodesc"
+ 1120  node "/home/anon/Desktop/nodesc/main6.js"
+ 1121  ls
+ 1122  rm main2.js 
+ 1123  rm main3.js 
+ 1124  rm main4.js 
+ 1125  rm main5.js 
+ 1126  ls
+ 1127  cd "/home/anon/Desktop/nodesc"
+ 1128  node "/home/anon/Desktop/nodesc/main.js"
+ 1129  ls
+ 1130  cd "/home/anon/Desktop/nodesc"
+ 1131  node "/home/anon/Desktop/nodesc/main.js"
+ 1132  cd "/home/anon/Desktop/nodesc"
+ 1133  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1134  cd "/home/anon/Desktop/nodesc"
+ 1135  node "/home/anon/Desktop/nodesc/main.js"
+ 1136  cd "/home/anon/Desktop/nodesc"
+ 1137  node "/home/anon/Desktop/nodesc/main.js"
+ 1138  cd "/home/anon/Desktop/nodesc"
+ 1139  node "/home/anon/Desktop/nodesc/main.js"
+ 1140  cd "/home/anon/Desktop/nodesc"
+ 1141  node "/home/anon/Desktop/nodesc/main.js"
+ 1142  cd "/home/anon/Desktop/nodesc"
+ 1143  node "/home/anon/Desktop/nodesc/main.js"
+ 1144  cd "/home/anon/Desktop/nodesc"
+ 1145  node "/home/anon/Desktop/nodesc/main.js"
+ 1146  cd "/home/anon/Desktop/my-botasaurus-project"
+ 1147  node "/home/anon/Desktop/my-botasaurus-project/test.js"
+ 1148  cd "/home/anon/Desktop/my-botasaurus-project"
+ 1149  node "/home/anon/Desktop/my-botasaurus-project/test.js"
+ 1150  cd "/home/anon/Desktop/nodesc"
+ 1151  node "/home/anon/Desktop/nodesc/main.js"
+ 1152  cd "/home/anon/Desktop/nodesc"
+ 1153  node "/home/anon/Desktop/nodesc/main.js"
+ 1154  cd "/home/anon/Desktop/nodesc"
+ 1155  node "/home/anon/Desktop/nodesc/main6.js"
+ 1156  cd "/home/anon/Desktop/nodesc"
+ 1157  node "/home/anon/Desktop/nodesc/main6.js"
+ 1158  cd "/home/anon/Desktop/nodesc"
+ 1159  node "/home/anon/Desktop/nodesc/main9.js"
+ 1160  cd "/home/anon/Desktop/nodesc"
+ 1161  node "/home/anon/Desktop/nodesc/main9.js"
+ 1162  cd "/home/anon/Desktop/nodesc"
+ 1163  node "/home/anon/Desktop/nodesc/main.js"
+ 1164  cd "/home/anon/Desktop/nodesc"
+ 1165  node "/home/anon/Desktop/nodesc/main10.js"
+ 1166  node "/home/anon/Desktop/nodesc/main10.js" 
+ 1167  node "/home/anon/Desktop/nodesc/main10.js" cd "/home/anon/Desktop/my-botasaurus-project"
+ 1168  python3 -u "/home/anon/Desktop/my-botasaurus-project/test1.py"
+ 1169  clear
+ 1170  node "/home/anon/Desktop/nodesc/main10.js" "KCG/DHSS/EQF/001/2024-2025"
+ 1171  cd "/home/anon/Desktop/nodesc"
+ 1172  node "/home/anon/Desktop/nodesc/main10.js"
+ 1173  node "/home/anon/Desktop/nodesc/main10.js" "KCG/DHSS/EQF/001/2024-2025"
+ 1174  cd "/home/anon/Desktop/nodesc"
+ 1175  node "/home/anon/Desktop/nodesc/main10.js"
+ 1176  node "/home/anon/Desktop/nodesc/main10.js" "KCG/DHSS/EQF/001/2024-2025"
+ 1177  clear
+ 1178  node "/home/anon/Desktop/nodesc/main10.js" "KCG/DHSS/EQF/001/2024-2025"
+ 1179  clear
+ 1180  node main10.js "KCG/DHSS/EQF/001/2024-2025"
+ 1181  cd "/home/anon/Desktop/nodesc"
+ 1182  node "/home/anon/Desktop/nodesc/main9.js"
+ 1183  cd "/home/anon/Desktop/nodesc"
+ 1184  node "/home/anon/Desktop/nodesc/main.js"
+ 1185  cd "/home/anon/Desktop/nodesc"
+ 1186  node "/home/anon/Desktop/nodesc/main.js"
+ 1187  cd "/home/anon/Desktop/nodesc"
+ 1188  node "/home/anon/Desktop/nodesc/main.js"
+ 1189  cd "/home/anon/Desktop/nodesc"
+ 1190  node "/home/anon/Desktop/nodesc/main.js"
+ 1191  cd "/home/anon/Desktop/nodesc"
+ 1192  node "/home/anon/Desktop/nodesc/main.js"
+ 1193  cd "/home/anon/Desktop/nodesc"
+ 1194  node "/home/anon/Desktop/nodesc/main9.js"
+ 1195  cd "/home/anon/Desktop/nodesc"
+ 1196  node "/home/anon/Desktop/nodesc/main11.js"
+ 1197  cd "/home/anon/Desktop/nodesc"
+ 1198  node "/home/anon/Desktop/nodesc/main.js"
+ 1199  cd "/home/anon/Desktop/nodesc"
+ 1200  node "/home/anon/Desktop/nodesc/main12.js"
+ 1201  cd "/home/anon/Desktop/nodesc"
+ 1202  node "/home/anon/Desktop/nodesc/main12.js"
+ 1203  cd "/home/anon/Desktop/nodesc"
+ 1204  node "/home/anon/Desktop/nodesc/main12.js"
+ 1205  cd "/home/anon/Desktop/nodesc"
+ 1206  node "/home/anon/Desktop/nodesc/main12.js"
+ 1207  cd "/home/anon/Desktop/nodesc"
+ 1208  node "/home/anon/Desktop/nodesc/main13.js"
+ 1209  cd "/home/anon/Desktop/nodesc"
+ 1210  node "/home/anon/Desktop/nodesc/main13.js"
+ 1211  cd "/home/anon/Desktop/nodesc"
+ 1212  node "/home/anon/Desktop/nodesc/main12.js"
+ 1213  cd "/home/anon/Desktop/nodesc"
+ 1214  node "/home/anon/Desktop/nodesc/main13.js"
+ 1215  npm install cheerio
+ 1216  cd "/home/anon/Desktop/nodesc"
+ 1217  node "/home/anon/Desktop/nodesc/main13.js"
+ 1218  clear
+ 1219  npm install
+ 1220  clear
+ 1221  npm install
+ 1222  cd "/home/anon/Desktop/nodesc"
+ 1223  node "/home/anon/Desktop/nodesc/main13.js"
+ 1224  cd "/home/anon/Desktop/nodesc"
+ 1225  node "/home/anon/Desktop/nodesc/main13.js"
+ 1226  cd "/home/anon/Desktop/nodesc"
+ 1227  node "/home/anon/Desktop/nodesc/main12.js"
+ 1228  cd "/home/anon/Desktop/nodesc"
+ 1229  node "/home/anon/Desktop/nodesc/main.js"
+ 1230  ecd "/home/anon/Desktop/nodesc"
+ 1231  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1232  cd "/home/anon/Desktop/nodesc"
+ 1233  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1234  cd "/home/anon/Desktop/nodesc"
+ 1235  node "/home/anon/Desktop/nodesc/main13.js"
+ 1236  cd "/home/anon/Desktop/nodesc"
+ 1237  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1238  cd "/home/anon/Desktop/nodesc"
+ 1239  node "/home/anon/Desktop/nodesc/main13.js"
+ 1240  cd "/home/anon/Desktop/nodesc"
+ 1241  node "/home/anon/Desktop/nodesc/main13.js"
+ 1242  cd "/home/anon/Desktop/nodesc"
+ 1243  node "/home/anon/Desktop/nodesc/main13.js"
+ 1244  cd "/home/anon/Desktop/nodesc"
+ 1245  node "/home/anon/Desktop/nodesc/main14.js"
+ 1246  cd "/home/anon/Desktop/nodesc"
+ 1247  node "/home/anon/Desktop/nodesc/main14.js"
+ 1248  cd "/home/anon/Desktop/nodesc"
+ 1249  node "/home/anon/Desktop/nodesc/main.js"
+ 1250  cd "/home/anon/Desktop/nodesc"
+ 1251  node "/home/anon/Desktop/nodesc/main.js"
+ 1252  cd "/home/anon/Desktop/nodesc"
+ 1253  node "/home/anon/Desktop/nodesc/main.js"
+ 1254  cd "/home/anon/Desktop/nodesc"
+ 1255  node "/home/anon/Desktop/nodesc/main.js"
+ 1256  cd "/home/anon/Desktop/nodesc"
+ 1257  node "/home/anon/Desktop/nodesc/main14.js"
+ 1258  cd "/home/anon/Desktop/nodesc"
+ 1259  node "/home/anon/Desktop/nodesc/main.js"
+ 1260  cd "/home/anon/Desktop/nodesc"
+ 1261  node "/home/anon/Desktop/nodesc/main.js"
+ 1262  cd "/home/anon/Desktop/nodesc"
+ 1263  node "/home/anon/Desktop/nodesc/main.js"
+ 1264  clear
+ 1265  ping -c 5 x.com
+ 1266  clear
+ 1267  ls
+ 1268  node main.js 
+ 1269  cd "/home/anon/Desktop/nodesc"
+ 1270  node "/home/anon/Desktop/nodesc/main.js"
+ 1271  cd "/home/anon/Desktop/nodesc"
+ 1272  node "/home/anon/Desktop/nodesc/main.js"
+ 1273  cd "/home/anon/Desktop/nodesc"
+ 1274  node "/home/anon/Desktop/nodesc/main.js"
+ 1275  cd "/home/anon/Desktop/nodesc"
+ 1276  node "/home/anon/Desktop/nodesc/main.js"
+ 1277  cd "/home/anon/Desktop/nodesc"
+ 1278  node "/home/anon/Desktop/nodesc/main.js"
+ 1279  cd "/home/anon/Desktop/nodesc"
+ 1280  node "/home/anon/Desktop/nodesc/main.js"
+ 1281  cd "/home/anon/Desktop/nodesc"
+ 1282  node "/home/anon/Desktop/nodesc/main.js"
+ 1283  cd "/home/anon/Desktop/nodesc"
+ 1284  node "/home/anon/Desktop/nodesc/main.js"
+ 1285  cd "/home/anon/Desktop/nodesc"
+ 1286  node "/home/anon/Desktop/nodesc/main.js"
+ 1287  cd "/home/anon/Desktop/nodesc"
+ 1288  node "/home/anon/Desktop/nodesc/main.js"
+ 1289  cd "/home/anon/Desktop/nodesc"
+ 1290  node "/home/anon/Desktop/nodesc/main.js"
+ 1291  cd "/home/anon/Desktop/nodesc"
+ 1292  node "/home/anon/Desktop/nodesc/main.js"
+ 1293  cd "/home/anon/Desktop/nodesc"
+ 1294  node "/home/anon/Desktop/nodesc/main.js"
+ 1295  cd "/home/anon/Desktop/nodesc"
+ 1296  node "/home/anon/Desktop/nodesc/main.js"
+ 1297  cd "/home/anon/Desktop/nodesc"
+ 1298  node "/home/anon/Desktop/nodesc/main.js"
+ 1299  cd "/home/anon/Desktop/nodesc"
+ 1300  node "/home/anon/Desktop/nodesc/main.js"
+ 1301  cd "/home/anon/Desktop/nodesc"
+ 1302  node "/home/anon/Desktop/nodesc/main.js"
+ 1303  cd "/home/anon/Desktop/nodesc"
+ 1304  node "/home/anon/Desktop/nodesc/main.js"
+ 1305  cd "/home/anon/Desktop/nodesc"
+ 1306  node "/home/anon/Desktop/nodesc/main.js"
+ 1307  cd "/home/anon/Desktop/nodesc"
+ 1308  node "/home/anon/Desktop/nodesc/main.js"
+ 1309  cd "/home/anon/Desktop/nodesc"
+ 1310  node "/home/anon/Desktop/nodesc/main.js"
+ 1311  cd "/home/anon/Desktop/nodesc"
+ 1312  node "/home/anon/Desktop/nodesc/main.js"
+ 1313  cd "/home/anon/Desktop/nodesc"
+ 1314  node "/home/anon/Desktop/nodesc/main.js"
+ 1315  cd "/home/anon/Desktop/nodesc"
+ 1316  node "/home/anon/Desktop/nodesc/main.js"
+ 1317  cd "/home/anon/Desktop/nodesc"
+ 1318  node "/home/anon/Desktop/nodesc/main.js"
+ 1319  cd "/home/anon/Desktop/nodesc"
+ 1320  node "/home/anon/Desktop/nodesc/main.js"
+ 1321  cd "/home/anon/Desktop/nodesc"
+ 1322  node "/home/anon/Desktop/nodesc/main.js"
+ 1323  ping google.com
+ 1324  cd "/home/anon/Desktop/nodesc"
+ 1325  node "/home/anon/Desktop/nodesc/main.js"
+ 1326  cd "/home/anon/Desktop/nodesc"
+ 1327  node "/home/anon/Desktop/nodesc/main.js"
+ 1328  cd "/home/anon/Desktop/nodesc"
+ 1329  node "/home/anon/Desktop/nodesc/main.js"
+ 1330  cd "/home/anon/Desktop/nodesc"
+ 1331  node "/home/anon/Desktop/nodesc/main.js"
+ 1332  cd "/home/anon/Desktop/nodesc"
+ 1333  node "/home/anon/Desktop/nodesc/main.js"
+ 1334  cd "/home/anon/Desktop/nodesc"
+ 1335  node "/home/anon/Desktop/nodesc/main.js"
+ 1336  ccd "/home/anon/Desktop/nodesc"
+ 1337  node "/home/anon/Desktop/nodesc/main.js"
+ 1338  cd "/home/anon/Desktop/nodesc"
+ 1339  node "/home/anon/Desktop/nodesc/main.js"
+ 1340  cd Desktop/nodesc/
+ 1341  sudo su
+ 1342  ssh root@185.53.211.74
+ 1343  ssh -i all.pem root@185.53.211.74
+ 1344  code
+ 1345  code .
+ 1346  ssh -i all.pem root@128.199.101.76
+ 1347  git init .
+ 1348  git commit -m "first commit"
+ 1349  git add .
+ 1350  git commit -m "first commit"
+ 1351  git git remote add origin git@github.com:genome96/rasclat.git
+ 1352  git push
+ 1353  git push --set-upstream origin main
+ 1354  git add . && git commit -m "Anon" && git push
+ 1355  cd Desktop/nodesc/
+ 1356  node main.js 
+ 1357  cd "/home/anon/Desktop/nodesc"
+ 1358  node "/home/anon/Desktop/nodesc/main.js"
+ 1359  cd "/home/anon/Desktop/nodesc"
+ 1360  node "/home/anon/Desktop/nodesc/main.js"
+ 1361  cd "/home/anon/Desktop/nodesc"
+ 1362  node "/home/anon/Desktop/nodesc/main15.js"
+ 1363  cd "/home/anon/Desktop/nodesc"
+ 1364  node "/home/anon/Desktop/nodesc/main15.js"
+ 1365  cd "/home/anon/Desktop/nodesc"
+ 1366  node "/home/anon/Desktop/nodesc/main16.js"
+ 1367  cd "/home/anon/Desktop/nodesc"
+ 1368  node "/home/anon/Desktop/nodesc/main16.js"
+ 1369  cd "/home/anon/Desktop/nodesc"
+ 1370  node "/home/anon/Desktop/nodesc/main17.js"
+ 1371  cd "/home/anon/Desktop/nodesc"
+ 1372  node "/home/anon/Desktop/nodesc/main17.js"
+ 1373  cd "/home/anon/Desktop/nodesc"
+ 1374  node "/home/anon/Desktop/nodesc/tempCodeRunnerFile.js"
+ 1375  cd "/home/anon/Desktop/nodesc"
+ 1376  node "/home/anon/Desktop/nodesc/main.js"
+ 1377  wget http://www.marhaba-firmware.com/home/browse/file-info/id/3208/CPH1717EX_11_A.02_170815.rar
+ 1378  rm CPH1717EX_11_A.02_170815.rar 
+ 1379  code .
+ 1380  sudo su
+ 1381  sudo su
+ 1382  exit
+ 1383  sudo su
+ 1384  ls
+ 1385  sudo ufw allow in "Apache"
+ 1386  sudo apt install mysql-server
+ 1387  sudo apt install software-properties-common
+ 1388  code .
+ 1389  cd ..
+ 1390  wget https://download.sublimetext.com/sublime-text_build-4143_amd64.deb
+ 1391  ssh root@91.223.236.77
+ 1392  cd ../Pictures/
+ 1393  ls
+ 1394  cd
+ 1395  cd Desktop/
+ 1396  sudo dpkg -i sublime-text_build-4143_amd64.deb 
+ 1397  subl
+ 1398  ssh root@212.86.105.70
+ 1399  ls
+ 1400  git clone git@github.com:genome96/darkstore.git
+ 1401  ls
+ 1402  cd darkstore/
+ 1403  xdg-open .
+ 1404  clear
+ 1405  git add . && git commit -m "initial" 
+ 1406  git branch -M main
+ 1407  git remote add origin git@github.com:genome96/darkstore.git
+ 1408  git push
+ 1409  git add . && git commit -m "initial" 
+ 1410  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer EuJitx_QzRvyqN6nNNLM-QMbXoT80_QnUjUffkbP"      -H "Content-Type:application/json"
+ 1411  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" 		-H "X-Auth-Email: ccarlito7641@gmail.com" 		-H "X-Auth-Key: EuJitx_QzRvyqN6nNNLM-QMbXoT80_QnUjUffkbP" 		-H "Content-Type: application/json"
+ 1412  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" 		-H "X-Auth-Email: ccarlito7641@gmail.com" 		-H "Authorization: Bearer EuJitx_QzRvyqN6nNNLM-QMbXoT80_QnUjUffkbP"
+ 1413  		-H "Content-Type: application/json"
+ 1414  sudo su
+ 1415  sudo apt install libc6-i386 libc6-x32 libxi6 libxtst6 -y
+ 1416  cd /opt
+ 1417  sudo su
+ 1418  xdg-open /opt/Webex/bin/webex.desktop --no-sandbox
+ 1419  xdg-open /opt/Webex/bin/webex.desktop 
+ 1420  /opt/Webex/bin/CiscoCollabHost %U
+ 1421  /opt/Webex/bin/CiscoCollabHost
+ 1422  exit
+ 1423  git add . && git commit -m "Updated README" && git push
+ 1424  clear
+ 1425  git add . && git commit -m "Updated README" && git push
+ 1426  clear
+ 1427  node main.js 
+ 1428  ls
+ 1429  rm node_modules/
+ 1430  clear
+ 1431  git add . && git commit -m "Updated README" && git push
+ 1432  ls
+ 1433  rm -rf node_modules/
+ 1434  ls
+ 1435  git add . && git commit -m "Updated README" && git push
+ 1436  clear
+ 1437  npm install
+ 1438  git add . && git commit -m "Updated README" && git push
+ 1439  node main.js 
+ 1440  clear
+ 1441  node main.js 
+ 1442  clear
+ 1443  cd "/home/anon/Desktop/nodesc"
+ 1444  node "/home/anon/Desktop/nodesc/main.js"
+ 1445  cd "/home/anon/Desktop/nodesc/tests"
+ 1446  node "/home/anon/Desktop/nodesc/tests/main16.js"
+ 1447  git add . && git commit -M "Scrape all table rows" && git push
+ 1448  git add . && git commit -m "Scrape all table rows" && git push
+ 1449  cd "/home/anon/Desktop/nodesc"
+ 1450  node "/home/anon/Desktop/nodesc/main.js"
+ 1451  clear
+ 1452  git add .
+ 1453  git commit -m "Read all <tr>"
+ 1454  git push
+ 1455  cd "/home/anon/Downloads/Telegram Desktop/APKCrtyupter"
+ 1456  python3 -u "/home/anon/Downloads/Telegram Desktop/APKCrtyupter/APK.py"
+ 1457  pip3 install wxPython
+ 1458  cd "/home/anon/Downloads/Telegram Desktop/APKCrtyupter"
+ 1459  python3 -u "/home/anon/Downloads/Telegram Desktop/APKCrtyupter/APK.py"
+ 1460  clear
+ 1461  python APK.py 
+ 1462  python3 APK.py 
+ 1463  pip install wx
+ 1464  pip install wxpython
+ 1465  python3 -m pip install --upgrade pip
+ 1466  python3 APK.py 
+ 1467  exit
+ 1468  pip install pycryptodome
+ 1469  cd "/home/anon/Downloads/Telegram Desktop/APKCrtyupter"
+ 1470  python3 -u "/home/anon/Downloads/Telegram Desktop/APKCrtyupter/tempCodeRunnerFile.py"
+ 1471  pip install wxPython
+ 1472  cd Desktop/nodesc/
+ 1473  git init
+ 1474  git add .
+ 1475  git commit -m "Upload Files"
+ 1476  git branch -M main
+ 1477  git remote add origin git@github.com:genome96/ppip-scraper.git
+ 1478  git push origin main
+ 1479  clear
+ 1480  git status
+ 1481  ls
+ 1482  ls tests/
+ 1483  code .
+ 1484  git pull
+ 1485  git branch --set-upstream-to=main
+ 1486  git pull
+ 1487  git pull remote main
+ 1488  clear
+ 1489  git fetch origin
+ 1490  git branch --set-upstream-to=origin/main main
+ 1491  git pull
+ 1492  clear
+ 1493  ls
+ 1494  clear
+ 1495  ls
+ 1496  git pull
+ 1497  clear
+ 1498  ls
+ 1499  clear
+ 1500  gt add . && git commit -m "anon" && git push
+ 1501  git add . && git commit -m "anon" && git push
+ 1502  git pull origin main
+ 1503  gt add . && git commit -m "anon" && git push
+ 1504  git add . && git commit -m "anon" && git push
+ 1505  git add . && git commit -m "anon"
+ 1506  git push
+ 1507  git add . && git commit -m "anon"
+ 1508  git push
+ 1509  code .
+ 1510  cd
+ 1511  ssh -i all.pem root@188.166.224.242
+ 1512  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '188.166.224.242'
+ 1513  ssh -i all.pem root@188.166.224.242
+ 1514  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '188.166.224.242'
+ 1515  clear
+ 1516  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '188.166.224.242'
+ 1517  ssh -i all.pem root@188.166.224.242
+ 1518  gt add . && git commit -m "anon" && git push
+ 1519  git add . && git commit -m "anon" && git push
+ 1520  sudo apt install neofetch
+ 1521  sudo apt install wget
+ 1522  clear
+ 1523  mkdir kib
+ 1524  cd kib/
+ 1525  wget https://kibu.ac.ke/
+ 1526  exit
+ 1527  sudo su
+ 1528  exit
+ 1529  node test.js 
+ 1530  npm install
+ 1531  node test.js 
+ 1532  ls
+ 1533  rm -rf minut/ minute/ node_modules/ 
+ 1534  ls
+ 1535  clear
+ 1536  ls
+ 1537  npm install
+ 1538  ls
+ 1539  code .
+ 1540  exit
+ 1541  npm install
+ 1542  node test.js 
+ 1543  npm install website-scraper website-scraper-puppeteer
+ 1544  node test.js 
+ 1545  clear
+ 1546  node test.js 
+ 1547  cd "/home/anon/Desktop/my-botasaurus-project"
+ 1548  node "/home/anon/Desktop/my-botasaurus-project/test.js"
+ 1549  cd "/home/anon/Desktop/my-botasaurus-project"
+ 1550  node "/home/anon/Desktop/my-botasaurus-project/test.js"
+ 1551  neofetch
+ 1552  cd kib/
+ 1553  wget -mkEpnp https://kibu.ac.ke/
+ 1554  exit
+ 1555  mkdir appli
+ 1556  cd appli/
+ 1557  wget -mkEpnp https://application.kibu.ac.ke/
+ 1558  exit
+ 1559  neofetch
+ 1560  echo $SHELL
+ 1561  clear
+ 1562  locate neofetch
+ 1563  sudo locate neofetch
+ 1564  nano .config/neofetch/config.conf 
+ 1565  sudo su
+ 1566  exit
+ 1567  cd
+ 1568  ssh -i all.pem root@104.248.174.28
+ 1569  cd Desktop/
+ 1570  ls
+ 1571  git clone git@github.com:genome96/scupdate.git
+ 1572  cd scupdate/
+ 1573  code .
+ 1574  cd ..
+ 1575  rm -rf scupdate/
+ 1576  clear
+ 1577  cd ../Downloads/
+ 1578  ls
+ 1579  ls
+ 1580  chmod +x encrypt/epro 
+ 1581  ./encrypt/epro setup.sh 
+ 1582  mv setup.sh~ ../
+ 1583  git add .
+ 1584  git commit -m "lock"
+ 1585  git push
+ 1586  clear
+ 1587  ls
+ 1588  rm -rf *
+ 1589  clear
+ 1590  code .
+ 1591  git clone git@github.com:genome96/scupdate.git
+ 1592  ls
+ 1593  cd scupdate/
+ 1594  rm -rf bot/ encrypt/ LICENSE README.md setup.sh config/ files/ menu/ register update.sh 
+ 1595  ls
+ 1596  ll
+ 1597  cd ..
+ 1598  ls
+ 1599  mv bot/ config/ files/ menu/ README.md register setup.sh udp/ update.sh scupdate/
+ 1600  ls
+ 1601  cd scupdate/
+ 1602  ls
+ 1603  git add . && git commit -m "Anon" && git push
+ 1604  clear
+ 1605  cd
+ 1606  ssh -i all.pem root@104.248.174.28
+ 1607  clear
+ 1608  ssh -i all.pem root@104.248.174.28
+ 1609  mv ../../Telegram\ Desktop/encrypt.sh ../
+ 1610  cd ..
+ 1611  ls
+ 1612  mv encrypt.sh scupdate/
+ 1613  clear
+ 1614  ls
+ 1615  cd scupdate/
+ 1616  ls
+ 1617  chmod +x encrypt.sh 
+ 1618  ./encrypt.sh setup.sh
+ 1619  clear
+ 1620  mv setup.sh~ setup.sh.bak ../
+ 1621  ls
+ 1622  clear
+ 1623  ls
+ 1624  mv encrypt.sh ../
+ 1625  ls
+ 1626  git add .
+ 1627  git commit -m "Anon"
+ 1628  git push
+ 1629  clear
+ 1630  git add .
+ 1631  git commit -m "Anon"
+ 1632  git push
+ 1633  clear
+ 1634  git pull
+ 1635  git add . && git commit -m "Anon" && git push
+ 1636  clear
+ 1637  git add . && git commit -m "Anon" && git push
+ 1638  clear
+ 1639  git add . && git commit -m "Anon" && git push
+ 1640  mv issue.html ../
+ 1641  git add . && git commit -m "Anon" && git push
+ 1642  code .
+ 1643  git pull
+ 1644  code .
+ 1645  mv setup.sh ../
+ 1646  git add . && git commit -m "Anon" && git push
+ 1647  clear
+ 1648  git add . && git commit -m "Anon" && git push
+ 1649  ls
+ 1650  ../
+ 1651  cd ..
+ 1652  ls
+ 1653  ./encrypt.sh scupdate/setup.sh 
+ 1654  cd scupdate/
+ 1655  mv setup.sh~ ../
+ 1656  ls
+ 1657  git add . && git commit -m "Anon" && git push
+ 1658  code .
+ 1659  cd
+ 1660  ssh -i all.pem root@104.248.174.28
+ 1661  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1662  ssh -i all.pem root@104.248.174.28
+ 1663  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1664  ssh -i all.pem root@104.248.174.28
+ 1665  it
+ 1666  ls
+ 1667  rm -rf key fim poc1.py registrasi.txt setup 
+ 1668  ls
+ 1669  rm appli
+ 1670  rm -rf appli
+ 1671  ls
+ 1672  rm msfinstall 
+ 1673  ls
+ 1674  rm -rf msfinstall 
+ 1675  ls
+ 1676  rm -rf strategic/
+ 1677  ls
+ 1678  ls kib
+ 1679  rm -rf kib
+ 1680  ls
+ 1681  rm -rf appli.zip 
+ 1682  ls
+ 1683  cd Downloads/
+ 1684  cd vps/
+ 1685  ls
+ 1686  git clone https://github.com/Eram101/vps.git
+ 1687  ssh -i all.pem root@104.248.174.28
+ 1688  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1689  ssh -i all.pem root@104.248.174.28
+ 1690  cd
+ 1691  ssh -i all.pem root@104.248.174.28
+ 1692  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1693  ssh -i all.pem root@104.248.174.28
+ 1694  clear
+ 1695  git add . && git commit -m "Anon" && git push
+ 1696  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "X-Auth-Key: Bearer 7108ded7964c1b125a1cd2a5857508a4" -H "Content-Type: application/json" | jq -r .result[0].id)
+ 1697  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "X-Auth-Key: Bearer 7108ded7964c1b125a1cd2a5857508a4" -H "Content-Type: application/json" | jq -r .result[0].id
+ 1698  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "X-Auth-Key: 7108ded7964c1b125a1cd2a5857508a4" -H "Content-Type: application/json" | jq -r .result[0].id
+ 1699  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "X-Auth-Key: 7108ded7964c1b125a1cd2a5857508a4" -H "Content-Type: application/json"
+ 1700  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json" | jq -r .result[0].id
+ 1701  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json"
+ 1702  clear
+ 1703  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json" | jq -r .result[0]
+ 1704  sudo apt install jq
+ 1705  clear
+ 1706  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json" | jq -r .result[0].id
+ 1707  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json"
+ 1708  curl -X GET "https://api.cloudflare.com/client/v4/user/tokens/verify"      -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5"      -H "Content-Type:application/json" | jq -r .result.id
+ 1709  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5" -H "Content-Type: application/json" | jq -r .result.id
+ 1710  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=darkanon.tech&status=active" -H "X-Auth-Email: ccarlito7641@gmail.com" -H "Authorization: Bearer jo3f3roJLkcQ1tmLTMFXvwcttbBAKNu5sanmhSj5" -H "Content-Type: application/json" | jq -r '.result[0].id'
+ 1711  clear
+ 1712  chmod +x files/cf.sh 
+ 1713  ./files/cf.sh 
+ 1714  clear
+ 1715  ls
+ 1716  cd ..
+ 1717  ./encrypt.sh scupdate/files/cf.sh 
+ 1718  cd scupdate/
+ 1719  ls
+ 1720  mv files/cf.sh~ ../
+ 1721  ls
+ 1722  ls ../
+ 1723  clear
+ 1724  ../encrypt.sh setup.sh 
+ 1725  mv setup.sh~ ../
+ 1726  clear
+ 1727  ls
+ 1728  ../encrypt.sh files/*.sh
+ 1729  xdg-open .
+ 1730  mv files/*.sh~ ../
+ 1731  ls
+ 1732  xdg-open .
+ 1733  ../encrypt.sh menu/menu/*.sh
+ 1734  clear
+ 1735  git add . && git commit -m "Anon" && git push
+ 1736  rm gz89262 
+ 1737  git add . && git commit -m "Anon" && git push
+ 1738  clear
+ 1739  git add . && git commit -m "Anon" && git push
+ 1740  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1741  ssh -i all.pem root@104.248.174.28
+ 1742  xdg-open .
+ 1743  git add . && git commit -m "Anon" && git push
+ 1744  clear
+ 1745  ssh -i all.pem root@104.248.174.28
+ 1746  ssh-keygen -f '/home/anon/.ssh/known_hosts' -R '104.248.174.28'
+ 1747  ssh -i all.pem root@104.248.174.28
+ 1748  clear
+ 1749  ssh -i all.pem root@104.248.174.28
+ 1750  clear
+ 1751  ping 104.248.174.28
+ 1752  ssh -i all.pem root@104.248.174.28
+ 1753  ssh -i all.pem root@167.99.186.87
+ 1754  exit
+ 1755  git pull
+ 1756  ls
+ 1757  clear
+ 1758  ls
+ 1759  cd menu/
+ 1760  ls
+ 1761  clear
+ 1762  cd ..
+ 1763  ls
+ 1764  clear
+ 1765  ./encrypt.sh darkanon.sh 
+ 1766  cat darkanon.sh
+ 1767  cd
+ 1768  wget https://github.com/optimus-glitch/darkanon/blob/main/darkanon.sh
+ 1769  ls
+ 1770  chmod +x darkanon.sh 
+ 1771  ./darkanon.sh 
+ 1772  apt install bzip2
+ 1773  sudo apt install bzip2
+ 1774  sudo su
+ 1775  ls
+ 1776  cd Do
+ 1777  cd Downloads/vps
+ 1778  ls
+ 1779  rm darkanon.sh
+ 1780  mv darkanon.sh~ darkanon.sh~ 
+ 1781  mv darkanon.sh~ darkanon.sh
+ 1782  cat darkanon.sh 
+ 1783  chmod +x darkanon.sh 
+ 1784  ./darkanon.sh 
+ 1785  sudo su
+ 1786  git clone git@github.com:optimus-glitch/anonstore.git
+ 1787  ls
+ 1788  cd anonstore/
+ 1789  exit
+ 1790  code .
+ 1791  code
+ 1792  code .
+ 1793  sudo su
+ 1794  nano ~/.bashrc 
+ 1795  sudo su
+ 1796  ls
+ 1797  sudo su
+ 1798  cd Desktop/
+ 1799  ls
+ 1800  cd Code/
+ 1801  ls
+ 1802  git clone git@github.com:genome96/ppip-scraper.git
+ 1803  cd ppip-scraper/
+ 1804  ls
+ 1805  node main.js 
+ 1806  cd tests/
+ 1807  ls
+ 1808  mv ../main.js main20.js
+ 1809  ls
+ 1810  mv main19.js ../main.js
+ 1811  cd ..
+ 1812  ls
+ 1813  git add . && git commit -m "Upgraded main.js" && git push
+ 1814  npm install
+ 1815  code .
+ 1816  git add . && git commit -m "Darkanon" && git push
+ 1817  git config --user.name optimus-glitch
+ 1818  git config --local user.name optimus-glitch
+ 1819  git config --local user.email ccarlito7641@gmail.com
+ 1820  git add . && git commit -m "Darkanon" && git push
+ 1821  ls
+ 1822  git remote add origin git@github.com:optimus-glitch/anonstore.git
+ 1823  ls
+ 1824  rm -rf .git/
+ 1825  git  init && git add . && git commit -m "Darkanon"
+ 1826  git remote add origin git@github.com:optimus-glitch/anonstore.git
+ 1827  git config --local user.name optimus-glitch
+ 1828  git config --local user.email ccarlito7641@gmail.com
+ 1829  git push
+ 1830  git push -u origin main
+ 1831  ls
+ 1832  git clone git@github.com:genome96/vpsanon.git
+ 1833  exit
+ 1834  ls
+ 1835  ssh root@ 192.168.100.60
+ 1836  ping 192.168.100.60
+ 1837  ping -c 4 192.168.100.60
+ 1838  ssh root@192.168.100.60
+ 1839  ssh 192.168.100.60
+ 1840  clear
+ 1841  ssh --help
+ 1842  ping 192.168.100.60
+ 1843  ssh -p 22 ubuntu@192.168.100.60
+ 1844  ssh -p 22 admnistrator@192.168.100.60
+ 1845  ssh -p 22 administrator@192.168.100.60
+ 1846  sudo nano /etc/ssh/sshd_config
+ 1847  ssh administrator@192.168.100.60
+ 1848  ssh -p 22 administrator@192.168.100.60
+ 1849  ssh -p 2222 administrator@192.168.100.60
+ 1850  ssh administrator@192.168.100.60
+ 1851  exit
+ 1852  ssh administrator@192.168.100.60
+ 1853  ping 192.168.100.60
+ 1854  ssh ubuntu@192.168.100.60
+ 1855  ssh administrator@192.168.100.60
+ 1856  ssh -p administrator@192.168.100.60
+ 1857  ssh -p 22 administrator@192.168.100.60
+ 1858  ssh administrator@192.168.100.60
+ 1859  ssh -p 2222 administrator@192.168.100.60
+ 1860  ssh root@192.168.100.60
+ 1861  ssh administrator@192.168.100.60
+ 1862  ping 192.168.100.60
+ 1863  ping 192.168.100.62
+ 1864  ssh administrator@192.168.100.62
+ 1865  ping 192.168.100.60
+ 1866  ping 192.168.100.96
+ 1867  ssh administrator@192.168.100.96
+ 1868  ssh administrator@192.168.100.96
+ 1869  ssh administrator@192.168.100.60
+ 1870  ping 192.168.100.60
+ 1871  wc -l setup
+ 1872  ls
+ 1873  git add . && git commit -m "Darkanon" 
+ 1874  git push
+ 1875  git add . && git commit -m "Darkanon" && git push
+ 1876  cd "/home/anon/Desktop/Code/ppip-scraper"
+ 1877  node "/home/anon/Desktop/Code/ppip-scraper/main.js"
+ 1878  ls
+ 1879  git add . 
+ 1880  git commit -m "Updates"
+ 1881  ls
+ 1882  zip -r -P "D@rk@non
+ 1883  ls
+ 1884  zip --help
+ 1885  zip -r -P "D@rk@non"
+ 1886  ls
+ 1887  zip -r -P "D@rk@non"
+ 1888  zip -r -P "D@rk@non" menu/
+ 1889  ls
+ 1890  zip -r -P "D@rk@non@254" menu.zip menu/*
+ 1891  ls
+ 1892  cd 
+ 1893  ssh susu@104.225.142.184
+ 1894  ssh root@104.225.142.184
+ 1895  exit
+ 1896  ls
+ 1897  git add . 
+ 1898  git commit -m "Updates"
+ 1899  git push
+ 1900  git add .  && git commit -m "anon" && gip push
+ 1901  git add .  && git commit -m "anon" && git push
+ 1902  git push
+ 1903  git add .  && git commit -m "anon" && git push
+ 1904  git pull
+ 1905  git config pull.rebase true 
+ 1906  git pull
+ 1907  cd menu/
+ 1908  ls
+ 1909  zip -r -P "D@rk@non@254" menu.zip menu/*
+ 1910  cd ..
+ 1911  git add .  && git commit -m "anon" && git push
+ 1912  code .
+ 1913  code .
+ 1914  git add . && git commit -m "anon" && git push
+ 1915  cd ..
+ 1916  git clone git@github.com:genome96/darkstores.git
+ 1917  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=sshserver.my.id&status=active"     -H "X-Auth-Email: vpsvpsku@gmail.com"     -H "X-Auth-Key: 50e371fc5263c13c48c53f9f0e79e0707004f"     -H "Content-Type: application/json" | jq -r .result[0].id)
+ 1918  curl -sLX GET "https://api.cloudflare.com/client/v4/zones?name=sshserver.my.id&status=active"     -H "X-Auth-Email: vpsvpsku@gmail.com"     -H "X-Auth-Key: 50e371fc5263c13c48c53f9f0e79e0707004f"     -H "Content-Type: application/json" | jq -r .result[0].id
+ 1919  cd EncTool/
+ 1920  ls
+ 1921  ls | grep py
+ 1922  ls | grep enc
+ 1923  python3 enctool 
+ 1924  code .
+ 1925  ls
+ 1926  cd EncTool/
+ 1927  ls
+ 1928  chmod +x Install 
+ 1929  ./Install 
+ 1930  ls
+ 1931  mv Install setup
+ 1932  chmod +x setup 
+ 1933  ls
+ 1934  ./setup 
+ 1935  bash setup 
+ 1936  sudo su
+ 1937  ls
+ 1938  cd ..
+ 1939  clear
+ 1940  ls
+ 1941  python3 enctool 
+ 1942  clear
+ 1943  mv enctool ..
+ 1944  ls
+ 1945  rm EncTool/
+ 1946  rm -rf EncTool/
+ 1947  ls
+ 1948  git add . && git commit -m "I am Darkanon"
+ 1949  git push
+ 1950  ls
+ 1951  xdg-open .
+ 1952  ls
+ 1953  cd Desktop/
+ 1954  ls
+ 1955  cd ~/.ssh/
+ 1956  ls
+ 1957  cat id_ed25519.pub 
+ 1958  LS
+ 1959  ls
+ 1960  rm authorized_keys 
+ 1961  git clone git@github.com:optimus-glitch/scupdate.git
+ 1962  ls
+ 1963  mv scupdate/ /home/anon/Desktop/
+ 1964  cd
+ 1965  cd Desktop/
+ 1966  cd scupdate/
+ 1967  code .
+ 1968  cd
+ 1969  ssh administrator@192.168.100.60
+ 1970  ssh administrator@192.168.100.60
+ 1971  exit
+ 1972  ping 192.168.122.1/24
+ 1973  ping 192.168.122.1
+ 1974  ssh administrator@192.168.100.60
+ 1975  ssh ubuntu@192.168.100.121
+ 1976  clear
+ 1977  ping 192.168.100.121
+ 1978  ssh ubuntu@192.168.100.121
+ 1979  ssh 192.168.100.121
+ 1980  ping 192.168.100.121
+ 1981  ssh 192.168.100.121
+ 1982  ls
+ 1983  clear
+ 1984  cat ~/.ssh/id_ed25519.pub 
+ 1985  ssh 192.168.100.121
+ 1986  ssh ubuntu@192.168.100.121 -i ~/.ssh/id_ed25519 
+ 1987  ssh administrator@192.168.100.60
+ 1988  clear
+ 1989  ls
+ 1990  vim
+ 1991  sudo apt-get install -y vim
+ 1992  clear
+ 1993  git clone https://github.com/pixegami/terminal-profile.git
+ 1994  ls
+ 1995  cd terminal-profile/
+ 1996  ls
+ 1997  ./install_powerline.sh
+ 1998  ./install_terminal.sh
+ 1999  history
+ 2000  history > hi.txt
