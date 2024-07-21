@@ -1,5 +1,4 @@
-# Eencrypted by EncTool
-#By DARKANON
+# By DARKANON
 # https://t.me/darkanonc
 
 z="
